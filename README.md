@@ -7,7 +7,7 @@ Backend Developer
 Recently trained Junior Backend Developer with expertise in Java and Spring Boot Mostly. Now seeking a new opportunity to launch my career and apply my skills to real-world projects.
 
 *   🌍  I'm based in Porto, Portugal
-*   🧠  I'm learning JavaScript and React
+*   🧠  I'm improving my Skills in Java and SQL
 
 ### Skills 
 <p align="left">
